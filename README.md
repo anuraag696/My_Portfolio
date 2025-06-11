@@ -2,11 +2,11 @@
 
 <h2>🚀 Demo</h2>
 
-[Github_Deploy](https://anuraag696.github.io/Portfolio/)
-[Netlify_Deploy](https://anuraag-gupta-portfolio.netlify.app/)
-
+[Github_Deploy](https://anuraag696.github.io/Portfolio/)<br><br>
+[Netlify_Deploy](https://anuraag-gupta-portfolio.netlify.app/)<br><br>
+<p style="text-align: center;">
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4f0c84cb-5076-4621-b365-5a18097516a1/deploy-status)](https://app.netlify.com/projects/anuraag-gupta-portfolio/deploys)
-
+</p>
   
   
 <h2>🧐 Features</h2>
