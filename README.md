@@ -4,6 +4,8 @@
 
 [https://anuraag696.github.io/Portfolio/](https://anuraag696.github.io/Portfolio/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f0c84cb-5076-4621-b365-5a18097516a1/deploy-status)](https://app.netlify.com/projects/anuraag-gupta-portfolio/deploys)
+
   
   
 <h2>🧐 Features</h2>
